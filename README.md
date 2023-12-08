@@ -30,5 +30,6 @@ I'm a passionate student with a love for mathematics and coding. I'm currently p
 
 ## 💻 Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viditpok&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viditpok&theme=onedark&layout=compact)
+
 
