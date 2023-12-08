@@ -27,3 +27,8 @@ I'm a passionate student with a love for mathematics and coding. I'm currently p
 ## 📈 My GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=viditpok&show_icons=true&theme=radical)
+
+## 💻 Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viditpok&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
