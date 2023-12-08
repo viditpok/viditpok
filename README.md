@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hi there, I'm Vidit! 👋
 
-<!--
-**viditpok/viditpok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate student with a love for mathematics and coding. I'm currently pursuing a Bachelor's in Computer Science with a minor in Economics. I'm always eager to learn new things and take on challenging projects.
 
-Here are some ideas to get you started:
+## 📈 My GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&theme=radical)
+
+## 🔭 I’m currently working on...
+- Developing EcoHealth+, a project created during ImpactHack 2023
+- Personal website
+
+## 🌱 I’m currently learning...
+- Computer Systems and Networks (CS 2200)
+- Introduction to Artificial Intelligence (CS 3600)
+- Design and Analysis of Algorithms (CS 3510)
+- Econometric Analysis (ECON 3161)
+
+## 📫 How to reach me...
+- Email: vidit@gatech.edu
+- LinkedIn: https://www.linkedin.com/in/vidit-pokharna/
+
+## ✨ Fun fact...
+- My favorite sport is cricket
+
+## 📚 My Latest Blog Posts
+- Are Eggs Vegetarian (coming soon!)
