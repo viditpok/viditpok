@@ -5,7 +5,7 @@ I'm a passionate student with a love for mathematics and coding. I'm currently p
 
 ## 📈 My GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=viditpok&show_icons=true&theme=radical)
 
 ## 🔭 I’m currently working on...
 - Developing EcoHealth+, a project created during ImpactHack 2023
