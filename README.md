@@ -22,7 +22,7 @@ I'm a passionate student with a love for mathematics and coding. I'm currently p
 - My favorite sport is cricket
 
 ## 📚 My Latest Blog Posts
-- Are Eggs Vegetarian (coming soon!)
+- Are Eggs Vegetarian? (coming soon!)
 
 ## 📈 My GitHub Stats
 
